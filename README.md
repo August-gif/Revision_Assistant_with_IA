@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
     - npm run dev: pour lancer le projet 
 #cette version utilise provisiorement l'API de gemini, qui permet de simuler le serveur IA de REV ASSISTANCE
     
+
