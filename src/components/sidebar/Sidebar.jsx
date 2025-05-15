@@ -24,11 +24,11 @@ const Sidebar = () => {
         />
         <div onClick={()=>newChat()} className="new-chat">
           <img src={assets.plus_icon} alt="" />
-          {extended ? <p>New Chat</p> : null}
+          {extended ? <p>Nouvelle Discussion</p> : null}
         </div>
         {extended ? (
           <div className="recent">
-            <p className="recent-title">Recent</p>
+            <p className="recent-title">Recentes Discusssions</p>
 
             {
               prevPrompts.map((item,index)=>{
@@ -48,15 +48,15 @@ const Sidebar = () => {
       <div className="bottom">
         <div className="bottom-item recent-entry">
           <img src={assets.question_icon} alt="" />
-          {extended ? <p>Help</p> : null}
+          {extended ? <p>Aide</p> : null}
         </div>
         <div className="bottom-item recent-entry">
           <img src={assets.history_icon} alt="" />
-          {extended ? <p>Activity</p> : null}
+          {extended ? <p>Activités</p> : null}
         </div>
         <div className="bottom-item recent-entry">
           <img src={assets.setting_icon} alt="" />
-          {extended ? <p>Settings</p> : null}
+          {extended ? <p>Paramètres</p> : null}
         </div>
       </div>
     </div>
