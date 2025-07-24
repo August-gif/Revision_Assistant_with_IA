@@ -18,3 +18,9 @@ représente ceux qui pourrait etre l'interface l'interaction de l'élève de et 
 1. nav
 2. main-container
  la partie main-container a un input text pour recevoir les prompts des étudiants
+
+
+#j'ai lié l'API de Gemini AI pour similer réellement le fonctionnement pour le tester :
+npm install
+npm run dev
+
