@@ -1,6 +1,19 @@
+# Le projet REV-ASSISTANCE 
+
+Rev_ASSISTANCE : Votre Assistant de Révision Intelligent pour le Bac en RDC
+Rev_ASSISTANCE est un projet passionnant en cours de développement, conçu pour révolutionner la manière dont les élèves de terminale en République Démocratique du Congo se préparent à l'examen d'État. Inspiré par l'interface utilisateur intuitive de Gemini et propulsé par son API avancée, cet assistant intelligent vise à devenir un outil de révision incontournable.
+Comment ça marche ?
+Actuellement en phase d'évolution, Rev_ASSISTANCE est développé avec React, offrant une expérience utilisateur fluide et dynamique. L'intégration de l'API de Gemini est au cœur du projet, permettant potentiellement à l'application de comprendre et de générer des réponses pertinentes pour les questions d'examen.
+Mon Objectif : Un Agent IA au Service des Élèves
+À terme, mon ambition est que Rev_ASSISTANCE devienne un véritable agent IA capable de fournir des solutions détaillées aux items d'examen d'État. Imaginez un outil qui non seulement aide à la résolution, mais qui sert également de plateforme de révision personnalisée, adaptant son contenu aux besoins spécifiques de chaque élève.
+Un Projet en Continuelle Innovation
+Je m'appuie sur des tutoriels YouTube pour la réalisation technique de ce projet, tout en cherchant constamment à innover et à adapter les concepts pour répondre au contexte unique de l'enseignement en RDC. Chaque ligne de code est pensée pour améliorer l'expérience des futurs utilisateurs.
+
+
 # Pour tester ce projet execute les commandes ci(apprès : 
  --> npm install  : pour installer les dependances nodes
  ---> npm ru dev : pour lancer le projet
+ 
 
 #la page Login n'est pas encore bien developper et n'est pas connéctée au fichier App.Jsx pour etre tester
 
@@ -21,11 +34,3 @@
  la partie main-container a un input text pour recevoir les prompts des étudiants
 
 
-#j'ai lié l'API de Gemini AI pour similer réellement le fonctionnement pour le tester :
-npm install
-npm run dev
-
-=======
-# Revision_Assistant_with_IA
-Rev_ASSISTANCE: Votre Assistant de Révision Intelligent Rev_ASSISTANCE est un projet React innovant utilisant l'API Gemini, inspiré de l'interface UI de Gemini. Il vise à devenir un agent IA pour aider les élèves de terminale en RDC à réviser l'examen d'État en fournissant des résolutions d'items.
->>>>>>> f54f4d0419077777485a1af9b22a3ea575f7055b
