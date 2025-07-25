@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Cette version d'interface est constituée de deux grandes pages qui sont LOgin et Main qui 
 représente ceux qui pourrait etre l'interface l'interaction de l'élève de et serveur
 
@@ -24,3 +25,7 @@ représente ceux qui pourrait etre l'interface l'interaction de l'élève de et 
 npm install
 npm run dev
 
+=======
+# Revision_Assistant_with_IA
+Rev_ASSISTANCE: Votre Assistant de Révision Intelligent Rev_ASSISTANCE est un projet React innovant utilisant l'API Gemini, inspiré de l'interface UI de Gemini. Il vise à devenir un agent IA pour aider les élèves de terminale en RDC à réviser l'examen d'État en fournissant des résolutions d'items.
+>>>>>>> f54f4d0419077777485a1af9b22a3ea575f7055b
