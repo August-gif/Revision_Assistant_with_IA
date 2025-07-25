@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-#Cette version d'interface est constituée de deux grandes pages qui sont LOgin et Main qui 
-représente ceux qui pourrait etre l'interface l'interaction de l'élève de et serveur
+# Pour tester ce projet execute les commandes ci(apprès : 
+ --> npm install  : pour installer les dependances nodes
+ ---> npm ru dev : pour lancer le projet
 
 #la page Login n'est pas encore bien developper et n'est pas connéctée au fichier App.Jsx pour etre tester
 
